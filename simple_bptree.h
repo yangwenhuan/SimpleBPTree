@@ -1,6 +1,11 @@
 # pragma once
 
-class CBPTree
+struct BPTreeNode
 {
     
+};
+
+class BPTree
+{
+
 };
